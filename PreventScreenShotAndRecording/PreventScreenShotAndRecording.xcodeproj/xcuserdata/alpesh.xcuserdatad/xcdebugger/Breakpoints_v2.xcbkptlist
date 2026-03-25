@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7B7A7D80-8113-4CE3-BA31-FB49489D9810"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "521B5D3B-0BCC-43DD-A583-C3B87B506D77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PreventScreenShotAndRecording/ScreenSecurityManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "isScreenShotEnabled"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "521B5D3B-0BCC-43DD-A583-C3B87B506D77 - 27e69899fa1f09e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreventScreenShotAndRecording.ScreenSecurityManager.enableScreenshotProtection(for: __C.UIWindow) -&gt; ()"
+                  moduleName = "PreventScreenShotAndRecording.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alpesh/Desktop/LN/StopScreenShot/PreventScreenShotAndRecording/PreventScreenShotAndRecording/PreventScreenShotAndRecording/ScreenSecurityManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48">
+               </Location>
+               <Location
+                  uuid = "521B5D3B-0BCC-43DD-A583-C3B87B506D77 - bdc46241f6f95a0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreventScreenShotAndRecording.ScreenSecurityManager.isScreenShotEnabled.didset : Swift.Bool"
+                  moduleName = "PreventScreenShotAndRecording.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alpesh/Desktop/LN/StopScreenShot/PreventScreenShotAndRecording/PreventScreenShotAndRecording/PreventScreenShotAndRecording/ScreenSecurityManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAE9F9CB-ACC2-4758-B437-AD44666CAC9A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PreventScreenShotAndRecording/ScreenSecurityManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "isScreenShotEnabled"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AAE9F9CB-ACC2-4758-B437-AD44666CAC9A - 27e69899fa1f0960"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreventScreenShotAndRecording.ScreenSecurityManager.enableScreenshotProtection(for: __C.UIWindow) -&gt; ()"
+                  moduleName = "PreventScreenShotAndRecording.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alpesh/Desktop/LN/StopScreenShot/PreventScreenShotAndRecording/PreventScreenShotAndRecording/PreventScreenShotAndRecording/ScreenSecurityManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52">
+               </Location>
+               <Location
+                  uuid = "AAE9F9CB-ACC2-4758-B437-AD44666CAC9A - bdc46241f6f95a8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreventScreenShotAndRecording.ScreenSecurityManager.isScreenShotEnabled.didset : Swift.Bool"
+                  moduleName = "PreventScreenShotAndRecording.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alpesh/Desktop/LN/StopScreenShot/PreventScreenShotAndRecording/PreventScreenShotAndRecording/PreventScreenShotAndRecording/ScreenSecurityManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
